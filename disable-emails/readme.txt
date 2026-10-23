@@ -6,7 +6,7 @@ Author URI: https://shop.webaware.com.au/
 Donate link: https://shop.webaware.com.au/donations/?donation_for=Disable+Emails
 Tags: disable emails, block emails
 Requires at least: 5.5
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 5.6
 Stable tag: 1.8.3
 License: GPLv2 or later
